@@ -19,4 +19,11 @@ Berikut adalah gambar di branch
 #### Seeing the changes
 <img width="425" alt="Screenshot 2023-07-19 at 5 54 33 PM" src="https://github.com/rettatampubolon/TugasKru15/assets/81466524/cef36a42-e9db-4d64-8307-41baad3fa617">
 
+#### Controlling github from local using git (push newest file)
+1. Cloning the repository
+   <img width="465" alt="Screenshot 2023-07-19 at 6 11 16 PM" src="https://github.com/rettatampubolon/TugasKru15/assets/81466524/561b0f2b-7a75-4c7c-af2a-f62efdf869dd">
+
+2. Pushing the file
+   <img width="474" alt="Screenshot 2023-07-19 at 6 18 47 PM" src="https://github.com/rettatampubolon/TugasKru15/assets/81466524/5988845e-76ba-4a74-b571-515336e4a6a2">
+
 
